@@ -1,0 +1,12 @@
+.places__url-heading{
+  max-width: 456px;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 12px;
+  letter-spacing: 2px;
+  color: #AAAAAA;
+  text-align: left;
+  grid-area: url-link;
+  padding-bottom: 13px;
+  margin: 0;
+}

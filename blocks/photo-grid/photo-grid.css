@@ -1,0 +1,18 @@
+@import url(../photo-grid/__content/photo-grid__content.css);
+
+.photo-grid{
+  padding-top: 90px;
+  padding-bottom: 94px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(236px, 1fr));
+  gap: 18px;
+  list-style-type: none;
+  margin: 0;
+  box-sizing: border-box;
+}
+@media screen and (max-width: 320px){
+  .photo-grid{
+    padding-top: 62px;
+    row-gap: 12px;
+  }
+}
