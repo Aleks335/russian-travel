@@ -1,15 +1,17 @@
 .lead__figure{
-  padding-top: 62px;
+  padding-top: 63px ;
   margin: 0;
 }
 @media screen and (max-width: 1024px){
   .lead__figure{
-    padding-top: 54px;
+    width: 100%;
+    padding-top: 55px;
   }
 }
 @media screen and (max-width: 320px){
   .lead__figure{
-    padding-top: 39px;
+    padding-top: 40px ;
+
   }
 }
 

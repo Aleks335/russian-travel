@@ -1,0 +1,14 @@
+@import url(../cover/__link/cover__link.css);
+@import url(../cover/__title/cover__title.css);
+@import url(../cover/__subtitle/cover__subtitle.css);
+.cover{
+  padding-top: 0;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 1240px){
+  .cover{
+    width: 100vw;
+    margin-left: calc(50% - 50vw);
+  }
+}

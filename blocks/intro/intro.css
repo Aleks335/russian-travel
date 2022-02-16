@@ -4,34 +4,30 @@
 @import url(../intro/__list-number/intro__list-number.css);
 
 .intro{
+  max-width: 985px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  padding-top: 93px;
-  padding-left: 101px;
+  padding: 94px 0 0;
+  margin: 0 auto;
+
 
 }
 
 @media screen and (max-width: 1024px){
   .intro{
-    padding-top: 94px;
-    padding-left: 0;
+
+
   }
 }
 @media screen and (max-width: 768px){
   .intro{
-    padding-left: 0;
     padding-top: 90px;
   }
 }
-@media screen and (max-width: 668px){
-  .intro{padding-top: 68px;}
-
-}
-
 
 @media screen and (max-width: 320px){
   .intro{
-    padding-top: 64px;
+    padding-top: 66px;
   }
 }

@@ -5,8 +5,7 @@
   line-height: calc(58 / 54);
   text-align: left;
   margin: 0;
-
-
+  padding: 0;
 }
 
 @media screen and (max-width: 1024px){
@@ -17,20 +16,14 @@
 @media screen and (max-width: 768px){
   .intro__title{
 
-
   }
 }
-@media screen and (max-width: 668px){
-  .intro__title{
-    font-size: 35px;
 
-
-  }
-}
 @media screen and (max-width: 320px){
   .intro__title{
     font-size: 32px;
     font-style: normal;
     line-height: 35px;
+
   }
 }

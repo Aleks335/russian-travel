@@ -12,3 +12,45 @@
   margin: 0;
 
 }
+@media screen and (max-width: 1240px) and (max-width: 1024px){
+  .plac{
+    gap: 45px 12px;
+    grid-template-columns: 356px auto;
+
+  }
+}
+@media screen and (max-width: 1024px){
+  .plac{
+    column-gap: 116px;
+  }
+}
+@media screen and (max-width: 768px){
+  .plac{
+    column-gap: 11px;
+    padding-bottom: 73px;
+  }
+}
+@media screen and  (max-width: 650px){
+  .plac{
+    grid-template-columns: auto;
+    grid-template-areas:
+      "title"
+      "url-link"
+      "image"
+      "paragraph";
+  }
+}
+
+@media screen and (max-width: 320px){
+  .plac{
+    padding-bottom: 63px;
+    row-gap: 31px;
+    grid-template-columns: auto;
+    grid-template-areas:
+      "title"
+      "url-link"
+      "image"
+      "paragraph";
+  }
+}
+

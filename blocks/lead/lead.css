@@ -5,13 +5,24 @@
 @import url(../lead/__title/lead__title.css);
 
 .lead{
-  max-width: 988px;
+  max-width: 928px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 0;
+  padding-top: 45px;
   margin: 0 auto;
 }
 
+@media screen and (max-width: 1024px){
+  .lead{
+    padding-top: 37px;
+  }
+}
 
+
+@media screen and (max-width: 320px){
+  .lead{
+    padding-top: 27px;
+  }
+}
 
