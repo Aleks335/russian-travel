@@ -8,18 +8,18 @@
 @import url(../places/plac.css);
 
 .places{
-  padding: 93px 0;
+  padding-top: 93px ;
   margin: 0 101px;
 }
 @media screen and (max-width: 1240px){
   .places{
-    padding: 90px 0;
+    padding: 90px 0 0;
     margin: 0 auto;
   }
 }
 @media screen and (max-width: 768px){
   .places{
-    padding: 82px 0;
+    padding: 82px 0 0;
   }
 }
 @media screen and (max-width: 320px){

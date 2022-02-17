@@ -1,22 +1,19 @@
-# Научиться учиться
-Статическая вёрстка
-Проект - одностраничный сайт.
+# Путешествие по России.
+Одностраничный сайт, адаптивный
 
 ## Стек
-* HTML1
+* HTML
 * CSS
 
-### Основные понятия Grid Layout
-https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout
-
-### sprint 1
-https://code.s3.yandex.net/web-plus/project-1/sprint-1-brief.pdf
-
-### sprint 2
-https://code.s3.yandex.net/web-plus/project-1/sprint-2-brief.pdf
+### GitHab
+https://github.com/Aleks335/russian-travel.git
+Видимость репозитория Public
 
 ### Figma
-https://www.figma.com/file/4Xj9xAwUzLNv6W7AEVcMnx/long-brief?node-id=11%3A133
+https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=62863%3A634
 
-### Чеклист по самопроверке №1
-https://code.s3.yandex.net/web-developer/checklists-pdf/web-plus/checklist-1.pdf
+### Чеклист по самопроверке №2
+https://code.s3.yandex.net/web-developer/checklists-pdf/web-plus/checklist-2.pdf
+
+###  Архив с оптимизированными картинками
+https://code.s3.yandex.net/web-developer/project-2/sprint-3-images.zip

@@ -5,13 +5,11 @@
 @media screen and (max-width: 768px){
   .content{
     margin: 0 24px;
-
   }
 }
 @media screen and (max-width: 320px){
   .content{
     margin: 0 16px;
-
   }
 }
 

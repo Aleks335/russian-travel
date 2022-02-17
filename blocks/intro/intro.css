@@ -10,16 +10,8 @@
   align-items: flex-start;
   padding: 94px 0 0;
   margin: 0 auto;
-
-
 }
 
-@media screen and (max-width: 1024px){
-  .intro{
-
-
-  }
-}
 @media screen and (max-width: 768px){
   .intro{
     padding-top: 90px;
