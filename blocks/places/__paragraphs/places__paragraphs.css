@@ -4,10 +4,8 @@
   align-items: flex-start;
   gap: 25px;
 }
-
 @media screen and (max-width: 320px){
   .places__paragraphs{
     padding: 0 16px;
   }
 }
-

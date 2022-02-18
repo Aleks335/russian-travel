@@ -1,11 +1,7 @@
-@import url(../cover/__link/cover__link.css);
-@import url(../cover/__title/cover__title.css);
-@import url(../cover/__subtitle/cover__subtitle.css);
 .cover{
   padding-top: 12px;
   margin: 0 auto;
 }
-
 @media screen and (max-width: 1024px){
   .cover {
     width: 100vw;
@@ -17,4 +13,3 @@
     padding-top: 67px;
   }
 }
-
